@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+{{ range.Data.Pages }}
+<article class="post-snippet">
+  <h5>
+    <a href="{{ .RelPermalink }}"><span style="color: white;">» </span>{{ .Title }}</a>
+  </h5>
+</article>
+{{ end }}
+
+
