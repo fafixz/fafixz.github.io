@@ -1,8 +1,8 @@
 +++
-title = 'Webdev Resources'
+title = 'Recursos Web'
 +++
 
-## Resources to learn web development
+## Lista de recursos para aprender desarrollo web
 
 ### JavaScript
 

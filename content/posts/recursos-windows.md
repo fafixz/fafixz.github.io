@@ -1,8 +1,8 @@
 +++
-title = 'Windows Resources'
+title = 'Recursos Windows'
 +++
 
-## List of resources to learn about **Windows**
+## Lista de recursos para aprender **Windows**
 
 [Windows Fundamentals Course | HTB Academy - Hack The Box](https://academy.hackthebox.com/course/preview/windows-fundamentals) 
 

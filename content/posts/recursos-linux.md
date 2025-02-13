@@ -1,8 +1,8 @@
 +++
-title = 'Linux Resources'
+title = 'Recursos Linux'
 +++
 
-## List of resources to learn about **Linux**
+## Lista de recursos para aprender **Linux**
 
 [Baeldung On Linux](https://www.baeldung.com/linux/)
 

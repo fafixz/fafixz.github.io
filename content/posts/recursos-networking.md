@@ -1,8 +1,8 @@
 +++
-title = 'Networking Resources'
+title = 'Recursos Redes'
 +++
 
-## List of resources to learn about **Networking**
+## Lista de recursos para aprender **Redes**
 
 [Practical Networking](https://www.practicalnetworking.net/)
 
@@ -32,7 +32,7 @@ title = 'Networking Resources'
 
 [Part 2-Networking for Pentesters: Beginner | Serena DiPenti](https://www.youtube.com/watch?v=ikIGTW0uraA)
 
-[Part 3-Networking for Pentesters Beginner | Serena DiPenti](https://www.youtube.com/watch?v=HS0bicAd-5A)
+[Part 3-Networking for Pentesters: Beginner | Serena DiPenti](https://www.youtube.com/watch?v=HS0bicAd-5A)
 
 [Wireshark Masterclass](https://www.youtube.com/watch?v=OU-A2EmVrKQ&list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
 
